@@ -1,0 +1,74 @@
+.results{
+    font-size: 30px;
+}
+.testdiv{
+    display:inline;
+}
+.avgp{
+    display:inline;
+    background-color:rgb(3, 249, 81);
+    padding:12px;
+    border:12px solid rgb(3, 249, 81);
+    width:200px;
+    
+}
+.btnavg {
+    background-color: blue;
+    color:white;
+    font-weight: bold;
+    padding:12px;
+    border:12px solid blue;
+    text-align:center;
+    width:200px;
+    
+}
+
+.btnavg:hover{
+    background-color: rgb(7, 43, 189);
+    border:12px solid rgb(7, 43, 189);
+}
+.namep{
+    display:inline;
+}
+
+.btnnamechg {
+    background-color:red;
+    color:white;
+    font-weight: bold;
+    padding:12px;
+    border:12px solid red;
+    text-align:center;
+    width:200px;
+    
+}
+
+.btnnamechg:hover {
+    background-color: rgb(196, 20, 20);
+    border:12px solid rgb(196, 20, 20);
+}
+
+.btnpass{
+    background-color:rgb(170, 0, 255);
+    color:white;
+    padding:12px;
+    font-weight: bold;
+    border:12px solid rgb(170, 0, 255);
+    text-align:center;
+    display:inline-block;
+    width:200px;
+    
+}
+.btnpass:hover{
+    background-color: rgb(122, 56, 156);
+    border:12px solid rgb(122, 56, 156);
+}
+
+.passp{
+    display:inline;
+    background-color: rgb(255, 247, 2);
+    padding:12px;
+    border:12px solid rgb(255, 247, 2);
+    color:black;
+    width:200px;
+    
+}
